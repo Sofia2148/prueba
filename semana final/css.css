@@ -1,0 +1,18 @@
+td{
+    font-size: 15px;
+    line-height: 15px;
+    padding: 18x;
+    text-align: justify;
+    vertical-align: top;
+    width: 20%;   
+    
+    padding: 15px;
+  
+}
+
+body{
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
